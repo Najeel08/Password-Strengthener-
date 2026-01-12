@@ -1,0 +1,5 @@
+{
+  "name": "CyberLock Auditor",
+  "description": "A privacy-first, professional password strength auditor evaluating credentials against NIST, OWASP, and ISO standards with real-time feedback and crack-time estimation.",
+  "requestFramePermissions": []
+}
